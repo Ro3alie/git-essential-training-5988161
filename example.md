@@ -1,1 +1,1 @@
-This is example text.
+this is to show git status and it should turn green.
