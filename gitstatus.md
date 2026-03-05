@@ -1,5 +1,3 @@
-going to do this one too adding a change blah blah
-
-Adding a line
+Adding a line, this is a better change!
 
 Adding a new line
