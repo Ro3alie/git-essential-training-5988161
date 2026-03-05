@@ -1,3 +1,3 @@
-Adding a line, this is a better change!
+Adding a line
 
 Adding a new line
